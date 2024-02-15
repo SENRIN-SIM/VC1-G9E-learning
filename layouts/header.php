@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title> ELearning</title>
+	<title>E-Learning</title>
 
 	<!-- Meta Tags -->
 	<meta charset="utf-8">
@@ -25,16 +25,6 @@
 
 	<!-- Theme CSS -->
 	<link id="style-switch" rel="stylesheet" type="text/css" href="vendor/css/style.css">
-
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=G-7N7LGGGWT1"></script>
-	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
-
-	  gtag('config', 'G-7N7LGGGWT1');
-	</script>
 
 </head>
 
